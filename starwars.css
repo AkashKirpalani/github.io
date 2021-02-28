@@ -1170,7 +1170,7 @@
 /* Hux */
 #hux .body {
   position: absolute;
-  width: 100px;
+  width: 20px;
   height: 150px;
   background: #191919;
   top: 135px;
@@ -1192,7 +1192,7 @@
 }
 #hux .patch {
   position: absolute;
-  left: 100%;
+  left: 200%;
   transform: translateX(-10px);
   top: 20px;
   width: 20px;
@@ -1218,7 +1218,7 @@
 }
 #hux .hair {
   position: absolute;
-  width: 80px;
+  width: 1000px;
   height: 80px;
   left: 50%;
   transform: translateX(-50%);
@@ -1247,7 +1247,7 @@
 }
 #hux .pouf {
   position: absolute;
-  width: 44px;
+  width: 423px;
   height: 25px;
   border-radius: 100% 100px;
   left: 60px;
@@ -1325,7 +1325,7 @@
 }
 #hux .eyes {
   position: absolute;
-  top: 32px;
+  top: 324px;
   width: 10px;
   height: 8px;
   background: #424b54;
