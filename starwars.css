@@ -939,7 +939,7 @@
 }
 #kylo .hood {
   position: absolute;
-  background: #191919;
+  background: #191918;
   top: 45px;
   left: 50%;
   transform: translateX(-50%);
@@ -948,7 +948,7 @@
   border-radius: 200px 200px 30px 30px;
 }
 #kylo .hood:before {
-  content: "";
+  content: "hello";
   position: absolute;
   width: 80px;
   height: 50px;
@@ -959,7 +959,7 @@
   transform: rotate(-70deg);
 }
 #kylo .hood:after {
-  content: "";
+  content: "hello";
   position: absolute;
   width: 80px;
   height: 50px;
