@@ -1108,7 +1108,7 @@
   position: absolute;
   top: 4px;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translateX(-10%);
   background: #aaa;
   height: 7px;
   width: 30px;
@@ -1119,7 +1119,7 @@
   position: absolute;
   top: 5px;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translateX(-10%);
   background: #e53935;
   height: 5px;
   width: 0;
@@ -1138,7 +1138,7 @@
     height: 0;
   }
   5% {
-    height: 200px;
+    height: 100px;
   }
   55% {
     height: 200px;
