@@ -1345,7 +1345,7 @@
 }
 #hux .nose {
   position: absolute;
-  left: 50%;
+  left: 1000%;
   transform: translateX(-50%);
   width: 8px;
   height: 14px;
@@ -1355,7 +1355,7 @@
 }
 #hux .mouth {
   position: absolute;
-  background: #424b54;
+  background: #424b45;
   width: 30px;
   height: 4px;
   border-radius: 5px 5px 0 0;
