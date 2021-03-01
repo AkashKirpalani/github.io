@@ -13,10 +13,10 @@
   align-items: center;
 }
 #light {
-  background: ##00008B;
+  background: #00008B;
 }
 #dark {
-  background: #131313;
+  background: #00008B;
 }
 .container {
   display: flex;
